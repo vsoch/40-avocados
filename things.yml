@@ -23,14 +23,14 @@ things:
     - number: 10
     - image: https://vsoch.github.io/40-avocados/img/autumn-72294_960_720.jpg
     - link: http://mentalfloss.com/article/59312/11-tips-carving-better-jack-olantern
-  star-trek-enterprise-pizza-cutters:
-    - number: 2
-    - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
-    - link: https://www.thinkgeek.com/product/dea2/
-  climbing-belay-atc:
-    - number: 2
-    - image: https://www.rei.com/media/cfcd69f4-acdd-49a7-98f5-d032dd48d3ad?size=646x485
-    - link: https://www.rei.com/product/899107/black-diamond-atc-belay-device
+  jet-puffed-marshmallows:
+    - number: 26
+    - image: https://i5.walmartimages.com/asr/42e0baae-00f6-45b8-a82b-ce612cf43848_1.c49e531c79fd8318692dd4626a4b77dd.jpeg
+    - link: https://www.walmart.com/ip/Jet-Puffed-Marshmallows-12-oz-Wrapper/826143995
+  pencils:
+    - number: 240
+    - image: https://images-na.ssl-images-amazon.com/images/I/61qd5YbMRIL._SL1500_.jpg
+    - link: https://www.amazon.com/gp/product/B071JM699B/
   mcchicken:
     - number: 40
     - image: https://www.mcdonalds.com/content/dam/usa/documents/d123/products/mcchicken.png
@@ -39,6 +39,18 @@ things:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/816XTZ9KshL._SX522_.jpg
     - link: https://www.amazon.com/Halloween-Chocolate-HERSHEYS-Variety-Assortment/dp/B01M3008KZ/
+  pistachio-chocolate-bar:
+    - number: 4
+    - image: https://vsoch.github.io/40-avocados/img/pistachio-chocolate-bar.jpg
+    - link: https://compartes.com/collections/shop-all-gourmet-chocolates/products/gourmet-dark-chocolate-bar-gift-salted-pistachio-nuts
+  star-trek-enterprise-pizza-cutters:
+    - number: 2
+    - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
+    - link: https://www.thinkgeek.com/product/dea2/
+  climbing-belay-atc:
+    - number: 2
+    - image: https://www.rei.com/media/cfcd69f4-acdd-49a7-98f5-d032dd48d3ad?size=646x485
+    - link: https://www.rei.com/product/899107/black-diamond-atc-belay-device
   arduino-mkr-zero:
     - number: 1
     - image: https://www.electrokit.com/uploads/productimage/41015/41015919.jpg
@@ -75,3 +87,11 @@ things:
     - number: 28
     - image: https://i5.walmartimages.com/asr/576def06-feb9-4be8-b1a2-6e5e75325089_1.250ae3bb6486db065768f7a9c9167a48.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff
     - link: https://www.walmart.com/ip/Great-Value-White-Bread-20-oz/10315752
+  over-the-ear-headphone:
+    - number: 1
+    - image: https://vsoch.github.io/40-avocados/img/over-the-ear-headphone.jpg
+    - link: https://www.amazon.com/Edifier-H840-Audiophile-Over-Headphones/dp/B013J8CB2E/ref=sr_1_16_sspa?s=aht&ie=UTF8&qid=1540991950&sr=1-16-spons&keywords=headphone&psc=1
+  fidget-spinner-toy:
+    - number: 23
+    - image: https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2017/05/19/goods-img/1500943262788087121.jpg
+    - link: https://www.gearbest.com/novelty-toys/pp_606385.html?wid=1451296
