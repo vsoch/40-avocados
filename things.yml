@@ -27,6 +27,10 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  climbing-belay-atc:
+    - number: 2
+    - image: https://www.rei.com/media/cfcd69f4-acdd-49a7-98f5-d032dd48d3ad?size=646x485
+    - link: https://www.rei.com/product/899107/black-diamond-atc-belay-device
   mcchicken:
     - number: 40
     - image: https://www.mcdonalds.com/content/dam/usa/documents/d123/products/mcchicken.png
