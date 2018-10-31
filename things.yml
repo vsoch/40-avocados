@@ -119,6 +119,10 @@ things:
     - number: 24
     - image: https://cdn.shopify.com/s/files/1/2082/9501/products/SX6842-100_2_900x.jpg
     - link: https://www.amazon.com/NIKE-Unisex-Performance-Cushion-Socks/dp/B010RWD4GM/
+  rainbow-glasses:
+    - number: 60
+    - image: https://image.ibb.co/gCK7a0/51x-K6-JDo8q-L.jpg
+    - link: https://www.amazon.com/gp/product/B0066ISTG2/
   waving-cats:
     - number: 8
     - image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Fortune_Cat.jpg
@@ -131,3 +135,7 @@ things:
     - number: 1
     - image: https://cdn.shopify.com/s/files/1/0056/4562/products/chemex-at-home-web_large.jpg
     - link: https://www.lacolombe.com/products/chemex-coffeemaker
+  dumplings:
+    - number: 128
+    - image: https://whisksandchopsticks.files.wordpress.com/2013/01/good-one-no_2.jpg
+    - link: https://en.wikipedia.org/wiki/Dumpling
