@@ -27,3 +27,7 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  halloween-candy-pack:
+  	- number: 1
+	- image: https://images-na.ssl-images-amazon.com/images/I/816XTZ9KshL._SX522_.jpg
+	- link: https://www.amazon.com/Halloween-Chocolate-HERSHEYS-Variety-Assortment/dp/B01M3008KZ/ref=sr_1_1_s_it?s=grocery&ie=UTF8&qid=1540985348&sr=1-1-spons&keywords=halloween%2Bcandy&th=1
