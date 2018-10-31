@@ -27,6 +27,10 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  climbing-belay-atc:
+    - number: 2
+    - image: https://www.rei.com/media/cfcd69f4-acdd-49a7-98f5-d032dd48d3ad?size=646x485
+    - link: https://www.rei.com/product/899107/black-diamond-atc-belay-device
   mcchicken:
     - number: 40
     - image: https://www.mcdonalds.com/content/dam/usa/documents/d123/products/mcchicken.png
@@ -59,3 +63,23 @@ things:
     - number: 1
     - image: http://i.ebayimg.com/images/i/231305263124-0-1/s-l1000.jpg
     - link: https://www.ebay.com/itm/1878-S-Morgan-Silver-Dollar-Extra-Fine-40-AACGS-Certified/232987518049?hash=item363f236461:g:11QAAOSwEVlb2XIt:rk:12:pf:0
+  javascript-book:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
+    - link: https://www.bookdepository.com/Eloquent-Javascript-3rd-Edition-Marijn-Haverbeke/9781593279509
+  pencils:
+    - number: 240
+    - image: https://images-na.ssl-images-amazon.com/images/I/61qd5YbMRIL._SL1500_.jpg
+    - link: https://www.amazon.com/gp/product/B071JM699B/
+  justin-bieber-purpose-audio-cd:
+    - number: 4
+    - image: https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+    - link: https://www.amazon.com/Purpose-Deluxe-Justin-Bieber/dp/B016AM4BFQ
+  yugioh-card-shapesnatch:
+    - number: 129
+    - image: https://i.imgur.com/ZlFY6O0.png
+    - link: https://goo.gl/Lu5oZg
+  over-the-ear-headphone:
+    - number: 1
+    - image: https://vsoch.github.io/40-avocados/img/over-the-ear-headphone.jpg
+    - link: https://www.amazon.com/Edifier-H840-Audiophile-Over-Headphones/dp/B013J8CB2E/ref=sr_1_16_sspa?s=aht&ie=UTF8&qid=1540991950&sr=1-16-spons&keywords=headphone&psc=1
