@@ -60,7 +60,7 @@ things:
     - image: https://www.electrokit.com/uploads/productimage/41015/41015919.jpg
     - link: https://store.arduino.cc/usa/arduino-mkrzero
   canned-unicorn-meat:
-    - number: 5 
+    - number: 5
     - image: https://www.thinkgeek.com/images/products/frontsquare/e5a7_canned_unicorn_meat.jpg
     - link: https://www.thinkgeek.com/product/e5a7/?rrec=true&pfm=Recs_CategoryLanding_e5a7_2
   macdonald-peasant-burguer:
@@ -71,6 +71,14 @@ things:
     - number: 2
     - image: https://orig00.deviantart.net/b3d7/f/2014/035/6/5/the_elder_scrolls__online___dock_icon_by_blakegedye-d75291v.png
     - link: https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
+  flame-bluetooth-headphones:
+    - number: 2
+    - image: https://images-na.ssl-images-amazon.com/images/I/41JM2nFt2VL._AC_US218_.jpg
+    - link: https://www.amazon.com/Mpow-Bluetooth-Headphones-Waterproof-Cancelling/dp/B0753GRNQZ
+  morgan-silver-dollar:
+    - number: 1
+    - image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png/800px-1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png
+    - link: https://en.wikipedia.org/wiki/Morgan_dollar
   javascript-book:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
@@ -86,7 +94,11 @@ things:
   over-the-ear-headphone:
     - number: 1
     - image: https://vsoch.github.io/40-avocados/img/over-the-ear-headphone.jpg
-    - link: https://www.amazon.com/Edifier-H840-Audiophile-Over-Headphones/dp/B013J8CB2E/ref=sr_1_16_sspa?s=aht&ie=UTF8&qid=1540991950&sr=1-16-spons&keywords=headphone&psc=1
+    - link: https://www.amazon.com/Edifier-H840-Audiophile-Over-Headphones/dp/B013J8CB2E
+  packable-puffer-jacket:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/917%2BzcpUKwL._SX679._SX._UX._SY._UY_.jpg
+    - link: https://www.amazon.com/Hawke-Co-Packable-Shoulder-Stitching/dp/B013GRPOMM
   bluetooth-banana-phone:
     - number: 1
     - image: https://www.uncommongoods.com/images/items/47800/47883_1_1200px.jpg
@@ -98,12 +110,20 @@ things:
   skateboard:
     - number: 1
     - image: https://vsoch.github.io/40-avocados/img/skateboard.jpg
-    - link: https://www.amazon.com/RIMABLE-Plastic-Cruiser-Skateboard-Wheels/dp/B07DCL2KR3/ref=sr_1_25_sspa?s=outdoor-recreation&ie=UTF8&qid=1541003154&sr=1-25-spons&keywords=skateboard&psc=1
+    - link: https://www.amazon.com/RIMABLE-Plastic-Cruiser-Skateboard-Wheels/dp/B07DCL2KR3
+  nioh-game-ps4:
+    - number: 2
+    - image: https://images-na.ssl-images-amazon.com/images/I/51UehEnXjeL.jpg
+    - link: https://www.amazon.com/dp/B01MRKF099/?coliid=I3LJZ27QPR9CV0&colid=2ROMSRLKTT690&psc=0&ref_=lv_ov_lig_dp_it
   nike-socks:
     - number: 24
     - image: https://cdn.shopify.com/s/files/1/2082/9501/products/SX6842-100_2_900x.jpg
     - link: https://www.amazon.com/NIKE-Unisex-Performance-Cushion-Socks/dp/B010RWD4GM/
   waving-cats:
     - number: 8
-    - image: https://i.ebayimg.com/images/g/OiAAAOSwA29Y3fOx/s-l640.jpg
-    - link: https://www.ebay.com/p/6-Chinese-Lucky-Waving-Golden-Cat-Figure-With-Moving-Arm-Wealth-Decoration/854208166?iid=311837591912
+    - image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Fortune_Cat.jpg
+    - link: https://en.wikipedia.org/wiki/Maneki-neko
+  spring-loaded-glitter-bomb:
+    - number: 2
+    - image: https://cdn.shopify.com/s/files/1/0748/6277/products/spring_loaded_glitter_bomb_multi_1200x.jpg?v=1512349319
+    - link: https://www.ruindays.com/products/spring-loaded-glitter-bomb?variant=12317569155143
