@@ -158,6 +158,7 @@ def main(yaml_file, output_dir, template_file):
         # 5. Write file
         generate_html(file_name, 
                       template_file, {"kind": name,
+                                      "text": "%s %s" %(number, name),
                                       "grid": grid,
                                       "number": number}) 
 
@@ -172,7 +173,9 @@ def main(yaml_file, output_dir, template_file):
         grid += generate_grid(image, url, 1)
         grid += "\n"
 
-    generate_html('%s/index.html' % output_dir, template_file, {"grid": grid,
+    text = "What can I get for $40.00?"
+    generate_html('%s/index.html' % output_dir, template_file, {"text": text,
+                                                                "grid": grid,
                                                                 "number": "This Many",
                                                                 "kind": "Things"}) 
 
