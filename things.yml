@@ -27,6 +27,10 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  arduino-mkr-zero:
+    - number: 1
+    - image: https://www.electrokit.com/uploads/productimage/41015/41015919.jpg
+    - link: https://store.arduino.cc/usa/arduino-mkrzero
   canned-unicorn-meat:
     - number: 5 
     - image: https://www.thinkgeek.com/images/products/frontsquare/e5a7_canned_unicorn_meat.jpg
