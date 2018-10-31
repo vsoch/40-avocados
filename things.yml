@@ -73,7 +73,7 @@ things:
     - link: https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
   morgan-silver-dollar:
     - number: 1
-    - image: https://en.wikipedia.org/wiki/Morgan_dollar#/media/File:1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png
+    - image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png/800px-1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png
     - link: https://en.wikipedia.org/wiki/Morgan_dollar
   javascript-book:
     - number: 1
@@ -103,6 +103,10 @@ things:
     - number: 1
     - image: https://vsoch.github.io/40-avocados/img/skateboard.jpg
     - link: https://www.amazon.com/RIMABLE-Plastic-Cruiser-Skateboard-Wheels/dp/B07DCL2KR3/ref=sr_1_25_sspa?s=outdoor-recreation&ie=UTF8&qid=1541003154&sr=1-25-spons&keywords=skateboard&psc=1
+  nioh-game-ps4:
+    - number: 2
+    - image: https://images-na.ssl-images-amazon.com/images/I/51UehEnXjeL.jpg
+    - link: https://www.amazon.com/dp/B01MRKF099/?coliid=I3LJZ27QPR9CV0&colid=2ROMSRLKTT690&psc=0&ref_=lv_ov_lig_dp_it
   nike-socks:
     - number: 24
     - image: https://cdn.shopify.com/s/files/1/2082/9501/products/SX6842-100_2_900x.jpg
