@@ -28,6 +28,6 @@ things:
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
   the-elder-scrolls-online:
-   - 2
+   - number: 2
    - image: https://orig00.deviantart.net/b3d7/f/2014/035/6/5/the_elder_scrolls__online___dock_icon_by_blakegedye-d75291v.png
    - link: https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
