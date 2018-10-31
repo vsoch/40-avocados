@@ -1,0 +1,76 @@
+body {
+  background-color: #FCFCFC;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+img {
+  line-height: 0;
+  max-width: 100%;
+}
+
+.img-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  justify-content: center;
+  flex-grow: 1;
+  flex-shrink: 0;
+  grid-gap: .75em;
+  padding: .75em;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15.5em, 1fr));
+}
+.img-grid > * {
+  line-height: 0;
+  transition: .4s ease;
+}
+.img-grid > * a {
+  display: block;
+  position: relative;
+  transition: .4s ease;
+}
+.img-grid > * a:before {
+  content: "";
+  background-color: rgba(0, 0, 0, 0.75);
+  background-repeat: no-repeat;
+  background-position: center;
+  mix-blend-mode: lighten;
+  background-size: 120%;
+  border-radius: 1.25em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  transition: .4s ease;
+}
+.img-grid > * img {
+  border-radius: 0;
+  transition: .4s ease;
+  width: 100%;
+}
+.img-grid > *:hover {
+  background-color: transparent;
+  border-radius: 1.25em;
+  padding: .75em;
+}
+.img-grid > *:hover a:before {
+  opacity: 1;
+  z-index: 1;
+}
+.img-grid > *:hover img {
+  border-radius: 1.25em;
+  z-index: 0;
+}
+@media (min-width: 108.125em) {
+  .img-grid {
+    grid-template-columns: repeat(auto-fit, minmax(17em, 1fr));
+  }
+}

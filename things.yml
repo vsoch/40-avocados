@@ -1,0 +1,9 @@
+things:
+  avocados:
+    - number: 40
+    - image: https://vsoch.github.io/assets/images/posts/truelove/avocado.png
+    - link: https://vsoch.github.io/2018/truelove/
+  apples:
+    - number: 40
+    - image: https://vsoch.github.io/assets/images/posts/truelove/avocado.png
+    - link: https://vsoch.github.io/2018/truelove/
