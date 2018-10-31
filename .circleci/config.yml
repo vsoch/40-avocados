@@ -19,11 +19,8 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/python:3.5.1
+      - image: circleci/python:3.6.1
     working_directory: ~/src
-    environment:
-      JEKYLL_ENV: production
-      NOKOGIRI_USE_SYSTEM_LIBRARIES: true
     steps:
       - checkout
       - restore_cache:
@@ -49,6 +46,8 @@ jobs:
           destination: 40-avocados
 
   deploy:
+    docker:
+      - image: circleci/python:3.6.1
     steps:
       - attach_workspace:
           at: /tmp
