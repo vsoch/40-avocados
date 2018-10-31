@@ -23,12 +23,6 @@ jobs:
     working_directory: ~/src
     steps:
       - checkout
-      - restore_cache:
-          key: 40-avocados
-      - save_cache:
-          key: 40-avocados
-          paths:
-            - "docs"
       - run:
           name: "Generate Things"
           command: |
