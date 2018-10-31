@@ -23,11 +23,123 @@ things:
     - number: 10
     - image: https://vsoch.github.io/40-avocados/img/autumn-72294_960_720.jpg
     - link: http://mentalfloss.com/article/59312/11-tips-carving-better-jack-olantern
+  jet-puffed-marshmallows:
+    - number: 26
+    - image: https://i5.walmartimages.com/asr/42e0baae-00f6-45b8-a82b-ce612cf43848_1.c49e531c79fd8318692dd4626a4b77dd.jpeg
+    - link: https://www.walmart.com/ip/Jet-Puffed-Marshmallows-12-oz-Wrapper/826143995
+  pencils:
+    - number: 240
+    - image: https://images-na.ssl-images-amazon.com/images/I/61qd5YbMRIL._SL1500_.jpg
+    - link: https://www.amazon.com/gp/product/B071JM699B/
+  mcchicken:
+    - number: 40
+    - image: https://www.mcdonalds.com/content/dam/usa/documents/d123/products/mcchicken.png
+    - link: https://www.mcdonalds.com/us/en-us/full-menu/123dollarmenu.html
+  halloween-candy-pack:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/816XTZ9KshL._SX522_.jpg
+    - link: https://www.amazon.com/Halloween-Chocolate-HERSHEYS-Variety-Assortment/dp/B01M3008KZ/
+  pistachio-chocolate-bar:
+    - number: 4
+    - image: https://vsoch.github.io/40-avocados/img/pistachio-chocolate-bar.jpg
+    - link: https://compartes.com/collections/shop-all-gourmet-chocolates/products/gourmet-dark-chocolate-bar-gift-salted-pistachio-nuts
+  white-bread:
+    - number: 28
+    - image: https://vsoch.github.io/40-avocados/img/white-bread.jpeg
+    - link: https://www.walmart.com/ip/Great-Value-White-Bread-20-oz/10315752
   star-trek-enterprise-pizza-cutters:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  climbing-belay-atc:
+    - number: 2
+    - image: https://www.rei.com/media/cfcd69f4-acdd-49a7-98f5-d032dd48d3ad?size=646x485
+    - link: https://www.rei.com/product/899107/black-diamond-atc-belay-device
+  arduino-mkr-zero:
+    - number: 1
+    - image: https://www.electrokit.com/uploads/productimage/41015/41015919.jpg
+    - link: https://store.arduino.cc/usa/arduino-mkrzero
+  canned-unicorn-meat:
+    - number: 5
+    - image: https://www.thinkgeek.com/images/products/frontsquare/e5a7_canned_unicorn_meat.jpg
+    - link: https://www.thinkgeek.com/product/e5a7/?rrec=true&pfm=Recs_CategoryLanding_e5a7_2
+  macdonald-peasant-burguer:
+    - number: 40
+    - image: http://www.restaurantesconreto.com/wp-content/uploads/hamburguesa-un-euro.jpg
+    - link: https://www.mcdonalds.com/us/en-us/product/cheeseburger.html
+  the-elder-scrolls-online:
+    - number: 2
+    - image: https://orig00.deviantart.net/b3d7/f/2014/035/6/5/the_elder_scrolls__online___dock_icon_by_blakegedye-d75291v.png
+    - link: https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
+  flame-bluetooth-headphones:
+    - number: 2
+    - image: https://images-na.ssl-images-amazon.com/images/I/41JM2nFt2VL._AC_US218_.jpg
+    - link: https://www.amazon.com/Mpow-Bluetooth-Headphones-Waterproof-Cancelling/dp/B0753GRNQZ
+  morgan-silver-dollar:
+    - number: 1
+    - image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png/800px-1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png
+    - link: https://en.wikipedia.org/wiki/Morgan_dollar
+  javascript-book:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
+    - link: https://www.bookdepository.com/Eloquent-Javascript-3rd-Edition-Marijn-Haverbeke/9781593279509
+  justin-bieber-purpose-audio-cd:
+    - number: 4
+    - image: https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+    - link: https://www.amazon.com/Purpose-Deluxe-Justin-Bieber/dp/B016AM4BFQ
+  yugioh-card-shapesnatch:
+    - number: 129
+    - image: https://i.imgur.com/ZlFY6O0.png
+    - link: https://goo.gl/Lu5oZg
+  over-the-ear-headphone:
+    - number: 1
+    - image: https://vsoch.github.io/40-avocados/img/over-the-ear-headphone.jpg
+    - link: https://www.amazon.com/Edifier-H840-Audiophile-Over-Headphones/dp/B013J8CB2E
+  packable-puffer-jacket:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/917%2BzcpUKwL._SX679._SX._UX._SY._UY_.jpg
+    - link: https://www.amazon.com/Hawke-Co-Packable-Shoulder-Stitching/dp/B013GRPOMM
+  bluetooth-banana-phone:
+    - number: 1
+    - image: https://www.uncommongoods.com/images/items/47800/47883_1_1200px.jpg
+    - link: https://www.uncommongoods.com/product/bluetooth-banana-phone
+  fidget-spinner-toy:
+    - number: 23
+    - image: https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2017/05/19/goods-img/1500943262788087121.jpg
+    - link: https://www.gearbest.com/novelty-toys/pp_606385.html?wid=1451296
+  skateboard:
+    - number: 1
+    - image: https://vsoch.github.io/40-avocados/img/skateboard.jpg
+    - link: https://www.amazon.com/RIMABLE-Plastic-Cruiser-Skateboard-Wheels/dp/B07DCL2KR3
+  nioh-game-ps4:
+    - number: 2
+    - image: https://images-na.ssl-images-amazon.com/images/I/51UehEnXjeL.jpg
+    - link: https://www.amazon.com/dp/B01MRKF099/?coliid=I3LJZ27QPR9CV0&colid=2ROMSRLKTT690&psc=0&ref_=lv_ov_lig_dp_it
+  nike-socks:
+    - number: 24
+    - image: https://cdn.shopify.com/s/files/1/2082/9501/products/SX6842-100_2_900x.jpg
+    - link: https://www.amazon.com/NIKE-Unisex-Performance-Cushion-Socks/dp/B010RWD4GM/
+  rainbow-glasses:
+    - number: 60
+    - image: https://image.ibb.co/gCK7a0/51x-K6-JDo8q-L.jpg
+    - link: https://www.amazon.com/gp/product/B0066ISTG2/
+  waving-cats:
+    - number: 8
+    - image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Fortune_Cat.jpg
+    - link: https://en.wikipedia.org/wiki/Maneki-neko
+  spring-loaded-glitter-bomb:
+    - number: 2
+    - image: https://cdn.shopify.com/s/files/1/0748/6277/products/spring_loaded_glitter_bomb_multi_1200x.jpg?v=1512349319
+    - link: https://www.ruindays.com/products/spring-loaded-glitter-bomb?variant=12317569155143
+  six-cup-coffeemaker:
+    - number: 1
+    - image: https://cdn.shopify.com/s/files/1/0056/4562/products/chemex-at-home-web_large.jpg
+    - link: https://www.lacolombe.com/products/chemex-coffeemaker
+  dumplings:
+    - number: 128
+    - image: https://whisksandchopsticks.files.wordpress.com/2013/01/good-one-no_2.jpg
+    - link: https://en.wikipedia.org/wiki/Dumpling
   wireless-mice:
     - number: 4
-    - image: https://cdn.shopify.com/s/files/1/1769/5297/products/GEPC051AR_A1_161101_V01_1600x.jpg?v=1489477302
+    - image: https://vsoch.github.io/40-avocados/img/white-bread.jpeg
     - link: https://www.amazon.com/VicTsing-Wireless-Portable-Receiver-Adjustable/dp/B013WC0P2A/ref=sr_1_43?s=computers-intl-ship&ie=UTF8&qid=1540987573&sr=1-43
