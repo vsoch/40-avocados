@@ -131,6 +131,10 @@ things:
     - number: 2
     - image: https://cdn.shopify.com/s/files/1/0748/6277/products/spring_loaded_glitter_bomb_multi_1200x.jpg?v=1512349319
     - link: https://www.ruindays.com/products/spring-loaded-glitter-bomb?variant=12317569155143
+  six-cup-coffeemaker:
+    - number: 1
+    - image: https://cdn.shopify.com/s/files/1/0056/4562/products/chemex-at-home-web_large.jpg
+    - link: https://www.lacolombe.com/products/chemex-coffeemaker
   dumplings:
     - number: 128
     - image: https://whisksandchopsticks.files.wordpress.com/2013/01/good-one-no_2.jpg
