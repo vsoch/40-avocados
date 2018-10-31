@@ -87,10 +87,11 @@ def generate_grid(image, url, number=40):
        number: the number of grid-items to produce of the image
        url: the url for the grid-item to link to.
     '''
-    element = '<div class="grid-item"><a href="%s"><img src="%s"/></a></div>\n'
-    for iter in range(number):
-        element += element
-    return element
+    elements = []
+    element = '<div class="grid-item"><a href="%s"><img src="%s"/></a></div>' %(url, image)
+    for i in range(number):
+        elements.append(element)
+    return '\n'.join(elements)
 
 def generate_lookup(thing):
     '''convert of list of dicts to a single dict. I know, I know.
