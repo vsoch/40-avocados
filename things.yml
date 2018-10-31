@@ -27,3 +27,7 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  towel:
+    - number: 42
+    - image: https://commons.wikimedia.org/wiki/File:Towel_dna.jpg#/media/File:Towel_dna.jpg
+    - link: https://en.wikipedia.org/wiki/Towel_Day
