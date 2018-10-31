@@ -127,3 +127,7 @@ things:
     - number: 2
     - image: https://cdn.shopify.com/s/files/1/0748/6277/products/spring_loaded_glitter_bomb_multi_1200x.jpg?v=1512349319
     - link: https://www.ruindays.com/products/spring-loaded-glitter-bomb?variant=12317569155143
+  dumplings:
+    - number: 128
+    - image: https://www.reluctantgourmet.com/wp-content/uploads/2010/09/d0781aab6107ab09663a5b35f9583041.jpg
+    - link: https://en.wikipedia.org/wiki/Dumpling
