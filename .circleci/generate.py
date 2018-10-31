@@ -88,7 +88,7 @@ def generate_grid(image, url, number=40):
        url: the url for the grid-item to link to.
     '''
     element = '<div class="grid-item"><a href="%s"><img src="%s"/></a></div>\n'
-    for iter in number:
+    for iter in range(number):
         element += element
     return element
 
