@@ -63,3 +63,7 @@ things:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
     - link: https://www.bookdepository.com/Eloquent-Javascript-3rd-Edition-Marijn-Haverbeke/9781593279509
+  fortnite-exclusive-founders-loot-pinata-packs:
+    - number: 1
+    - image: https://cdn2.unrealengine.com/Fortnite%2Fblog%2Ffounders-packs-are-here%2FStandardFoundersPack_Fornite-1920x1080-482fb1dd7f93af7f3505e80ad6c8a6805bdba1f1.jpg
+    - link: https://www.epicgames.com/fortnite/en-US/buy-now/standard
