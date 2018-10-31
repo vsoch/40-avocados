@@ -119,6 +119,14 @@ things:
     - number: 24
     - image: https://cdn.shopify.com/s/files/1/2082/9501/products/SX6842-100_2_900x.jpg
     - link: https://www.amazon.com/NIKE-Unisex-Performance-Cushion-Socks/dp/B010RWD4GM/
+  rainbow-glasses:
+    - number: 60
+    - image: https://image.ibb.co/gCK7a0/51x-K6-JDo8q-L.jpg
+    - link: https://www.amazon.com/gp/product/B0066ISTG2/
+  waving-cats:
+    - number: 8
+    - image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Fortune_Cat.jpg
+    - link: https://en.wikipedia.org/wiki/Maneki-neko
   spring-loaded-glitter-bomb:
     - number: 2
     - image: https://cdn.shopify.com/s/files/1/0748/6277/products/spring_loaded_glitter_bomb_multi_1200x.jpg?v=1512349319
