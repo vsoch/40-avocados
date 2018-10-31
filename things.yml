@@ -63,3 +63,7 @@ things:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
     - link: https://www.bookdepository.com/Eloquent-Javascript-3rd-Edition-Marijn-Haverbeke/9781593279509
+  swiss-army-knife:
+  - number: 1
+  - image: https://assets.victorinox.com/mam/celum/celum_assets/54c/16c/8980432257054_celum_144813_320Wx280H.jpg?1
+  - link: https://www.amazon.com/Personalized-Spartan-Swiss-Army-Victorinox/dp/B0026HGXFG/ref=sr_1_15?ie=UTF8&qid=1540999285&sr=8-15&keywords=swiss+army+knife
