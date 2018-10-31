@@ -27,3 +27,7 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  canakit-raspberry-zero-w-starter-kit:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/917ZkYG1h3L._SL1500_.jpg
+    - link: https://goo.gl/b7W21T
