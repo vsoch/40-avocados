@@ -63,3 +63,19 @@ things:
     - number: 2
     - image: https://images-na.ssl-images-amazon.com/images/I/41JM2nFt2VL._AC_US218_.jpg
     - link: https://www.amazon.com/Mpow-Bluetooth-Headphones-Waterproof-Cancelling/dp/B0753GRNQZ/ref=sr_1_2?s=electronics&ie=UTF8&qid=1540997404&sr=1-2
+  javascript-book:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
+    - link: https://www.bookdepository.com/Eloquent-Javascript-3rd-Edition-Marijn-Haverbeke/9781593279509
+  pencils:
+    - number: 240
+    - image: https://images-na.ssl-images-amazon.com/images/I/61qd5YbMRIL._SL1500_.jpg
+    - link: https://www.amazon.com/gp/product/B071JM699B/
+  justin-bieber-purpose-audio-cd:
+    - number: 4
+    - image: https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+    - link: https://www.amazon.com/Purpose-Deluxe-Justin-Bieber/dp/B016AM4BFQ
+  yugioh-card-shapesnatch:
+    - number: 129
+    - image: https://i.imgur.com/ZlFY6O0.png
+    - link: https://goo.gl/Lu5oZg
