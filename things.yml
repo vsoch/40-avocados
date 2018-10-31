@@ -79,3 +79,7 @@ things:
     - number: 1
     - image: https://vsoch.github.io/40-avocados/img/over-the-ear-headphone.jpg
     - link: https://www.amazon.com/Edifier-H840-Audiophile-Over-Headphones/dp/B013J8CB2E/ref=sr_1_16_sspa?s=aht&ie=UTF8&qid=1540991950&sr=1-16-spons&keywords=headphone&psc=1
+  pistachio-chocolate-bar:
+    - number: 4
+    - image: https://vsoch.github.io/40-avocados/img/pistachio-chocolate-bar
+    - link: https://compartes.com/collections/shop-all-gourmet-chocolates/products/gourmet-dark-chocolate-bar-gift-salted-pistachio-nuts
