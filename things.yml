@@ -27,7 +27,7 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
-    La Riche Directions Semi-Permanent Conditioning Hair Colour - Alpine Green:
-      - number: 4
-      - image: https://images-na.ssl-images-amazon.com/images/I/715WsXpZzeL._SL1001_.jpg
-      - link: http://amzn.eu/d/fg4iasC
+  La Riche Directions Semi-Permanent Conditioning Hair Colour - Alpine Green:
+    - number: 4
+    - image: https://images-na.ssl-images-amazon.com/images/I/715WsXpZzeL._SL1001_.jpg
+    - link: http://amzn.eu/d/fg4iasC
