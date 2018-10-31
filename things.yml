@@ -63,3 +63,7 @@ things:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
     - link: https://www.bookdepository.com/Eloquent-Javascript-3rd-Edition-Marijn-Haverbeke/9781593279509
+  pencils:
+    - number: 240
+    - image: https://images-na.ssl-images-amazon.com/images/I/61qd5YbMRIL._SL1500_.jpg
+    - link: https://www.amazon.com/gp/product/B071JM699B/
