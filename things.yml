@@ -60,7 +60,7 @@ things:
     - image: https://www.electrokit.com/uploads/productimage/41015/41015919.jpg
     - link: https://store.arduino.cc/usa/arduino-mkrzero
   canned-unicorn-meat:
-    - number: 5 
+    - number: 5
     - image: https://www.thinkgeek.com/images/products/frontsquare/e5a7_canned_unicorn_meat.jpg
     - link: https://www.thinkgeek.com/product/e5a7/?rrec=true&pfm=Recs_CategoryLanding_e5a7_2
   macdonald-peasant-burguer:
@@ -99,3 +99,7 @@ things:
     - number: 1
     - image: https://vsoch.github.io/40-avocados/img/skateboard.jpg
     - link: https://www.amazon.com/RIMABLE-Plastic-Cruiser-Skateboard-Wheels/dp/B07DCL2KR3/ref=sr_1_25_sspa?s=outdoor-recreation&ie=UTF8&qid=1541003154&sr=1-25-spons&keywords=skateboard&psc=1
+  le-creuset-mug:
+    - number: 3
+    - image: https://images-na.ssl-images-amazon.com/images/I/31IwvO5eSzL.jpg
+    - link: https://www.amazon.com/Creuset-Stoneware-12-Ounce-Mug-Caribbean/dp/B006Y40D8U/
