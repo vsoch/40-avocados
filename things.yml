@@ -23,14 +23,14 @@ things:
     - number: 10
     - image: https://vsoch.github.io/40-avocados/img/autumn-72294_960_720.jpg
     - link: http://mentalfloss.com/article/59312/11-tips-carving-better-jack-olantern
-  star-trek-enterprise-pizza-cutters:
-    - number: 2
-    - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
-    - link: https://www.thinkgeek.com/product/dea2/
-  climbing-belay-atc:
-    - number: 2
-    - image: https://www.rei.com/media/cfcd69f4-acdd-49a7-98f5-d032dd48d3ad?size=646x485
-    - link: https://www.rei.com/product/899107/black-diamond-atc-belay-device
+  jet-puffed-marshmallows:
+    - number: 26
+    - image: https://i5.walmartimages.com/asr/42e0baae-00f6-45b8-a82b-ce612cf43848_1.c49e531c79fd8318692dd4626a4b77dd.jpeg
+    - link: https://www.walmart.com/ip/Jet-Puffed-Marshmallows-12-oz-Wrapper/826143995
+  pencils:
+    - number: 240
+    - image: https://images-na.ssl-images-amazon.com/images/I/61qd5YbMRIL._SL1500_.jpg
+    - link: https://www.amazon.com/gp/product/B071JM699B/
   mcchicken:
     - number: 40
     - image: https://www.mcdonalds.com/content/dam/usa/documents/d123/products/mcchicken.png
@@ -39,6 +39,14 @@ things:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/816XTZ9KshL._SX522_.jpg
     - link: https://www.amazon.com/Halloween-Chocolate-HERSHEYS-Variety-Assortment/dp/B01M3008KZ/
+  star-trek-enterprise-pizza-cutters:
+    - number: 2
+    - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
+    - link: https://www.thinkgeek.com/product/dea2/
+  climbing-belay-atc:
+    - number: 2
+    - image: https://www.rei.com/media/cfcd69f4-acdd-49a7-98f5-d032dd48d3ad?size=646x485
+    - link: https://www.rei.com/product/899107/black-diamond-atc-belay-device
   arduino-mkr-zero:
     - number: 1
     - image: https://www.electrokit.com/uploads/productimage/41015/41015919.jpg
@@ -63,10 +71,6 @@ things:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
     - link: https://www.bookdepository.com/Eloquent-Javascript-3rd-Edition-Marijn-Haverbeke/9781593279509
-  pencils:
-    - number: 240
-    - image: https://images-na.ssl-images-amazon.com/images/I/61qd5YbMRIL._SL1500_.jpg
-    - link: https://www.amazon.com/gp/product/B071JM699B/
   justin-bieber-purpose-audio-cd:
     - number: 4
     - image: https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
