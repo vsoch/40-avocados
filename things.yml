@@ -27,3 +27,7 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  nike-socks:
+    - number: 12
+    - image: https://images-na.ssl-images-amazon.com/images/I/81PTFhxgEwL._SL1500_.jpg
+    - link: https://www.amazon.com/NIKE-Unisex-Performance-Cushion-Socks/dp/B010RWD4GM/
