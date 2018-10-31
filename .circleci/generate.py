@@ -92,6 +92,13 @@ def generate_grid(image, url, number=40):
         element += element
     return element
 
+def generate_lookup(thing):
+    '''convert of list of dicts to a single dict. I know, I know.
+    '''
+    lookup = dict()
+    [lookup.update(item) for item in thing]
+    return lookup
+
 
 def generate_html(file_name, subs):
     '''write the grid html content to a file_name
@@ -121,6 +128,7 @@ def main(yaml_file, output_dir):
     for name,thing in data['things'].items():
 
         print('Generating %s!' % name)
+        thing = generate_lookup(thing)
 
         # 3. Metadata and Image
         number = int(thing.get("number", 40))
