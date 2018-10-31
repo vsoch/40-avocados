@@ -59,6 +59,10 @@ things:
     - number: 4
     - image: https://images-na.ssl-images-amazon.com/images/I/51uyNcQ4ikL._SX679_.jpg
     - link: https://www.amazon.com/gp/product/B00XKVP8BC/
+  art-of-war-book:
+    - number: 8
+    - image: https://images-na.ssl-images-amazon.com/images/I/717VrgS6G7L.jpg
+    - link: https://en.wikipedia.org/wiki/The_Art_of_War
   javascript-book:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
