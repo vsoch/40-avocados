@@ -112,7 +112,7 @@ def generate_html(file_name, template_file, subs):
     '''
     template = read_file(template_file, readlines=False)
     for key, content in subs.items():
-        template = template.replace("{{ %s }}" % key, content)
+        template = template.replace("{{ %s }}" % key, str(content))
 
     # 5. Write template
     write_file(file_name, template)
