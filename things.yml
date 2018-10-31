@@ -27,6 +27,10 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  macdonald-peasant-burguer:
+    - number: 40
+    - image: http://www.restaurantesconreto.com/wp-content/uploads/hamburguesa-un-euro.jpg
+    - link: https://www.mcdonalds.com/us/en-us/product/cheeseburger.html
   the-elder-scrolls-online:
     - number: 2
     - image: https://orig00.deviantart.net/b3d7/f/2014/035/6/5/the_elder_scrolls__online___dock_icon_by_blakegedye-d75291v.png
