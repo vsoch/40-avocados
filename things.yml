@@ -27,7 +27,7 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
-  guitar-capo:
-    - number: 4
-    - image: https://images-na.ssl-images-amazon.com/images/I/51uyNcQ4ikL._SX679_.jpg
-    - link: https://www.amazon.com/gp/product/B00XKVP8BC/
+  dogecoin:
+    - number: 10505.89
+    - image: https://goo.gl/images/HFMKYk
+    - link: https://dogecoin.com
