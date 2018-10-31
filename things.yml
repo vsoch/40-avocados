@@ -27,6 +27,10 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  mcchicken:
+    - number: 40
+    - image: https://www.mcdonalds.com/content/dam/usa/documents/d123/products/mcchicken.png
+    - link: https://www.mcdonalds.com/us/en-us/full-menu/123dollarmenu.html
   halloween-candy-pack:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/816XTZ9KshL._SX522_.jpg
