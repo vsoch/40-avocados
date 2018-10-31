@@ -75,3 +75,7 @@ things:
     - number: 26
     - image: https://i5.walmartimages.com/asr/42e0baae-00f6-45b8-a82b-ce612cf43848_1.c49e531c79fd8318692dd4626a4b77dd.jpeg
     - link: https://www.walmart.com/ip/Jet-Puffed-Marshmallows-12-oz-Wrapper/826143995
+  over-the-ear-headphone:
+    - number: 1
+    - image: https://vsoch.github.io/40-avocados/img/over-the-ear-headphone.jpg
+    - link: https://www.amazon.com/Edifier-H840-Audiophile-Over-Headphones/dp/B013J8CB2E/ref=sr_1_16_sspa?s=aht&ie=UTF8&qid=1540991950&sr=1-16-spons&keywords=headphone&psc=1
