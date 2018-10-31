@@ -171,3 +171,9 @@ things:
     - number: 7
     - image: https://upload.wikimedia.org/wikipedia/commons/b/bc/PeanutButter.jpg
     - link: https://www.iherb.com/pr/Peanut-Butter-Co-Crunch-Time-Crunchy-Peanut-Butter-16-oz-454-g/54092
+    - image: https://images-na.ssl-images-amazon.com/images/I/51uyNcQ4ikL._SX679_.jpg
+    - link: https://www.amazon.com/gp/product/B00XKVP8BC/
+  xiaomi-mi-band-3:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/518UhCS5oNL._SY450_.jpg
+    - link: https://www.amazon.com/Mi-Water-Resistant-Bracelet-Pedometer-phones-Chinese/dp/B01LRI86TK/ref=sr_1_4?s=exercise-and-fitness&ie=UTF8&qid=1541067481&sr=1-4&keywords=mi+band+3
