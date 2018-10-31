@@ -129,7 +129,7 @@ things:
     - link: https://en.wikipedia.org/wiki/Maneki-neko
   spring-loaded-glitter-bomb:
     - number: 2
-    - image: https://cdn.shopify.com/s/files/1/0748/6277/products/spring_loaded_glitter_bomb_multi_1200x.jpg?v=1512349319
+    - image: https://cdn.shopify.com/s/files/1/0748/6277/products/spring_loaded_glitter_bomb_multi_1200x.jpg
     - link: https://www.ruindays.com/products/spring-loaded-glitter-bomb?variant=12317569155143
   six-cup-coffeemaker:
     - number: 1
@@ -142,4 +142,4 @@ things:
   wireless-mice:
     - number: 4
     - image: https://vsoch.github.io/40-avocados/img/wireless-mouse.jpg
-    - link: https://www.amazon.com/VicTsing-Wireless-Portable-Receiver-Adjustable/dp/B013WC0P2A/ref=sr_1_43?s=computers-intl-ship&ie=UTF8&qid=1540987573&sr=1-43
+    - link: https://www.amazon.com/VicTsing-Wireless-Portable-Receiver-Adjustable/dp/B013WC0P2A/
