@@ -1,5 +1,7 @@
 # 40 Avocados
 
+[![CircleCI](https://circleci.com/gh/vsoch/40-avocados.svg?style=svg)](https://circleci.com/gh/vsoch/40-avocados)
+
 Apple recently announced the return of their Apple (colorful!) logo from the 
 days of old school. And it's only available for $40.00 "exclusively at the Flag Park Visitor's Center,"
 as announced on [Hackaday](https://hackaday.com/2018/10/30/apple-introduces-what-weve-all-been-waiting-for/).

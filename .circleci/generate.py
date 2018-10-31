@@ -135,7 +135,7 @@ def main(yaml_file, output_dir):
 
         # Number must be greater than or equal to 1
         number = max(number, 1)
-        url = thing.get('url', "https://vsoch.github.io/40-avocados/")
+        url = thing.get('link', "https://vsoch.github.io/40-avocados/")
         image = thing.get('image')
 
         # Test that image is defined
@@ -144,11 +144,12 @@ def main(yaml_file, output_dir):
             sys.exit(1)
 
         # Test that image exists
-        if requests.get(image).status_code != 200:
+        if requests.head(image).status_code != 200:
             print('Error with %s, image status not 200!.' % name)
             sys.exit(1)
 
         # 4. Fill Template
+        print("Generating grid...")
         grid = generate_grid(image, url, number)
         file_name = '%s/%s/index.html' % (output_dir, name.lower())
         os.mkdir(os.path.dirname(file_name))
