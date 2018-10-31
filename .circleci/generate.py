@@ -170,8 +170,11 @@ def main(yaml_file, output_dir, template_file):
         thing = generate_lookup(thing)
         image = thing.get('image')
         grid += generate_grid(image, url, 1)
+        grid += "\n"
 
-    generate_html('%s/index.html' % output_dir, template_file, {"grid": grid }) 
+    generate_html('%s/index.html' % output_dir, template_file, {"grid": grid,
+                                                                "number": "This Many",
+                                                                "name": "Things"}) 
 
 
 if __name__ == '__main__':

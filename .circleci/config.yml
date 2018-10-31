@@ -71,10 +71,9 @@ jobs:
                     cp -R docs/css ../out-old/
                     git rm -rf .
                     # ensure that github pages are ignored
-                    mkdir -p .circleci && cp -a ../.circleci/. .circleci/.
+                    mkdir -p .circleci && cp -a /tmp/src/.circleci/. .circleci/.
                     # Copy back previous files
-                    cp -R ../out-old/css css
-                    cp -R ..docs/* .
+                    cp -R /tmp/src/docs/* .
                     git add -A;
                     git commit -m "Automated deployment to GitHub Pages ${CIRCLE_SHA1}" --allow-empty
                     git push origin gh-pages
