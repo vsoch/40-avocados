@@ -148,7 +148,7 @@ def main(yaml_file, output_dir):
 
         # 5. Write file
         generate_html(file_name, {"name": name,
-                                  "grid": grid },
+                                  "grid": grid,
                                   "number": number}) 
 
 
