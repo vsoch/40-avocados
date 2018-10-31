@@ -71,6 +71,10 @@ things:
     - number: 2
     - image: https://orig00.deviantart.net/b3d7/f/2014/035/6/5/the_elder_scrolls__online___dock_icon_by_blakegedye-d75291v.png
     - link: https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
+  morgan-silver-dollar:
+    - number: 1
+    - image: https://en.wikipedia.org/wiki/Morgan_dollar#/media/File:1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png
+    - link: https://en.wikipedia.org/wiki/Morgan_dollar
   javascript-book:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
