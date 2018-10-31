@@ -103,3 +103,7 @@ things:
     - number: 24
     - image: https://cdn.shopify.com/s/files/1/2082/9501/products/SX6842-100_2_900x.jpg
     - link: https://www.amazon.com/NIKE-Unisex-Performance-Cushion-Socks/dp/B010RWD4GM/
+   the-great-gatsby:
+    - number: 37
+    - image: https://images-na.ssl-images-amazon.com/images/I/51vv75oglyL._SX326_BO1,204,203,200_.jpg
+    - link: https://www.amazon.com/Great-Gatsby-F-Scott-Fitzgerald/dp/0743273567/ref=sr_1_1?s=books&ie=UTF8&qid=1541010346&sr=1-1&keywords=gatsby&dpID=51vv75oglyL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch
