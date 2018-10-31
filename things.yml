@@ -44,7 +44,7 @@ things:
     - image: https://www.electrokit.com/uploads/productimage/41015/41015919.jpg
     - link: https://store.arduino.cc/usa/arduino-mkrzero
   canned-unicorn-meat:
-    - number: 5 
+    - number: 5
     - image: https://www.thinkgeek.com/images/products/frontsquare/e5a7_canned_unicorn_meat.jpg
     - link: https://www.thinkgeek.com/product/e5a7/?rrec=true&pfm=Recs_CategoryLanding_e5a7_2
   macdonald-peasant-burguer:
@@ -79,3 +79,11 @@ things:
     - number: 1
     - image: https://vsoch.github.io/40-avocados/img/over-the-ear-headphone.jpg
     - link: https://www.amazon.com/Edifier-H840-Audiophile-Over-Headphones/dp/B013J8CB2E/ref=sr_1_16_sspa?s=aht&ie=UTF8&qid=1540991950&sr=1-16-spons&keywords=headphone&psc=1
+  packable-puffer-jacket:
+    - number: 1
+    - image: https://i.imgur.com/ZlFY6O0.png
+    - link: https://images-na.ssl-images-amazon.com/images/I/81X1jLUHVvL._UY879_.jpg https://www.amazon.com/Hawke-Co-Packable-Shoulder-Stitching/dp/B013GRPOMM/ref=sr_1_28?ie=UTF8&qid=1541002880&sr=8-28&keywords=packable+puffer+jacket+men&refinements=p_72%3A2661618011
+
+
+
+https://www.amazon.com/Hawke-Co-Packable-Shoulder-Stitching/dp/B013GRPOMM/ref=sr_1_28?ie=UTF8&qid=1541002880&sr=8-28&keywords=packable+puffer+jacket+men&refinements=p_72%3A2661618011
