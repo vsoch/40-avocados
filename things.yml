@@ -123,7 +123,7 @@ things:
     - number: 2
     - image: https://cdn.shopify.com/s/files/1/0748/6277/products/spring_loaded_glitter_bomb_multi_1200x.jpg?v=1512349319
     - link: https://www.ruindays.com/products/spring-loaded-glitter-bomb?variant=12317569155143
-  aeropress-coffee-maker:
-    - number: 1
-    - image: https://aeropressinc.com/wp-content/uploads/2018/02/AeroPress-Whole.jpg
-    - link: https://www.amazon.com/AeroPress-Coffee-and-Espresso-Maker/dp/B0047BIWSK
+  insulated_water_bottle:
+    - number: 2
+    - image: https://images-na.ssl-images-amazon.com/images/I/51WvOgyQP3L._SL1500_.jpg
+    - link: https://www.gocontigo.com/32-oz-thermalock-matterhorn-stainless-steel-water-bottle.html
