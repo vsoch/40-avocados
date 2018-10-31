@@ -157,7 +157,7 @@ def main(yaml_file, output_dir, template_file):
 
         # 5. Write file
         generate_html(file_name, 
-                      template_file, {"name": name,
+                      template_file, {"kind": name,
                                       "grid": grid,
                                       "number": number}) 
 
@@ -174,7 +174,7 @@ def main(yaml_file, output_dir, template_file):
 
     generate_html('%s/index.html' % output_dir, template_file, {"grid": grid,
                                                                 "number": "This Many",
-                                                                "name": "Things"}) 
+                                                                "kind": "Things"}) 
 
 
 if __name__ == '__main__':
