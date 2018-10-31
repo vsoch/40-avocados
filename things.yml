@@ -71,6 +71,10 @@ things:
     - number: 2
     - image: https://orig00.deviantart.net/b3d7/f/2014/035/6/5/the_elder_scrolls__online___dock_icon_by_blakegedye-d75291v.png
     - link: https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
+  flame-bluetooth-headphones:
+    - number: 2
+    - image: https://images-na.ssl-images-amazon.com/images/I/41JM2nFt2VL._AC_US218_.jpg
+    - link: https://www.amazon.com/Mpow-Bluetooth-Headphones-Waterproof-Cancelling/dp/B0753GRNQZ/ref=sr_1_2?s=electronics&ie=UTF8&qid=1540997404&sr=1-2
   morgan-silver-dollar:
     - number: 1
     - image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png/800px-1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png
