@@ -27,3 +27,7 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  xbox-wireless-controller:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/71WX6wVepIL._AC_.jpg
+    - link: https://www.amazon.com/Xbox-Wireless-Controller-White-one/dp/B01GW3H3U8/ref=sr_1_50
