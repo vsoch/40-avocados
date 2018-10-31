@@ -27,3 +27,7 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  one-month-of-spotify-premium:
+    - number: 4
+    - image: https://developer.spotify.com/assets/branding-guidelines/icon1@2x.png
+    - link: https://www.spotify.com/us/premium/?checkout=false
