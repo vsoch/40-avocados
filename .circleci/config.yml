@@ -1,0 +1,107 @@
+githubsetup: &githubsetup
+    name: Prepare Github account credentials
+    command: |
+        # Only proceed if we minimally have a Github email
+        if [[ -n "${GITHUB_EMAIL:-}" ]];
+            then
+                echo "Preparing Github account credentials"
+                git config --global user.email $GITHUB_EMAIL
+                # If username is defined, use it (otherwuse use circle project)
+                if [[ -n "${GITHUB_USER:-}" ]];
+                    then
+                    git config --global user.name $GITHUB_USER
+                else
+                    git config --global user.name $CIRCLE_PROJECT_USERNAME
+                fi
+        fi
+
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/python:3.6.1
+    working_directory: ~/src
+    steps:
+      - checkout
+      - restore_cache:
+          key: 40-avocados
+      - save_cache:
+          key: 40-avocados
+          paths:
+            - "docs"
+      - run:
+          name: "Generate Things"
+          command: |
+            wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+            /bin/bash Miniconda3-latest-Linux-x86_64.sh -b 
+            $HOME/miniconda3/bin/python -m pip install pyaml
+            cd $HOME/src/docs
+            $HOME/miniconda3/bin/python ../.circleci/generate.py ../things.yml $HOME/src/docs ../.circleci/_template.html
+      - persist_to_workspace:
+          root: ~/
+          paths:
+            - src
+      - store_artifacts: 
+          path: docs
+          destination: 40-avocados
+
+  deploy:
+    docker:
+      - image: circleci/python:3.6.1
+    steps:
+      - attach_workspace:
+          at: /tmp
+      - run: *githubsetup
+      - run:
+          name: Deploy to Github Pages
+          no_output_timeout: 40m
+          command: |
+            if [[ -n "${GITHUB_EMAIL:-}" ]];
+                then
+                    echo "=== Deploying Things to Github Pages ==="
+                    echo "1. Checking out Github pages branch"
+                    mkdir -p ~/.ssh
+                    ssh-keyscan -H github.com >> ~/.ssh/known_hosts
+                    git clone "git@github.com:${CIRCLE_PROJECT_USERNAME}/${CIRCLE_PROJECT_REPONAME}.git" out
+                    cd out
+                    # either checkout github pages, or create orphan
+                    git checkout gh-pages || git checkout --orphan gh-pages
+                    # Save css
+                    mkdir -p ../out-old
+                    cp -R docs/css ../out-old/
+                    git rm -rf .
+                    # ensure that github pages are ignored
+                    mkdir -p .circleci && cp -a /tmp/src/.circleci/. .circleci/.
+                    # Copy back previous files
+                    cp -R /tmp/src/docs/* .
+                    git add -A;
+                    git commit -m "Automated deployment to GitHub Pages ${CIRCLE_SHA1}" --allow-empty
+                    git push origin gh-pages
+            else
+                echo "GITHUB_EMAIL not set, skipping manifest deploy to Github pages"
+            fi
+
+################################################################################
+# Workflows
+################################################################################
+
+
+workflows:
+  version: 2
+  build_deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              ignore: gh-pages
+            tags:
+              only: /.*/
+
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
+            tags:
+              only: /.*/
