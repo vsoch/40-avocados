@@ -27,3 +27,7 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
+  Arduino MKR Zero:
+    - number: 1
+    - image: https://www.electrokit.com/uploads/productimage/41015/41015919.jpg
+    - link: https://www.electrokit.com/produkt/arduino-mkr-zero/
