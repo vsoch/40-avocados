@@ -27,7 +27,23 @@ things:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
     - link: https://www.thinkgeek.com/product/dea2/
-  Arduino MKR Zero:
+  arduino-mkr-zero:
     - number: 1
     - image: https://www.electrokit.com/uploads/productimage/41015/41015919.jpg
-    - link: https://www.electrokit.com/produkt/arduino-mkr-zero/
+    - link: https://store.arduino.cc/usa/arduino-mkrzero
+  canned-unicorn-meat:
+    - number: 5 
+    - image: https://www.thinkgeek.com/images/products/frontsquare/e5a7_canned_unicorn_meat.jpg
+    - link: https://www.thinkgeek.com/product/e5a7/?rrec=true&pfm=Recs_CategoryLanding_e5a7_2
+  macdonald-peasant-burguer:
+    - number: 40
+    - image: http://www.restaurantesconreto.com/wp-content/uploads/hamburguesa-un-euro.jpg
+    - link: https://www.mcdonalds.com/us/en-us/product/cheeseburger.html
+  the-elder-scrolls-online:
+    - number: 2
+    - image: https://orig00.deviantart.net/b3d7/f/2014/035/6/5/the_elder_scrolls__online___dock_icon_by_blakegedye-d75291v.png
+    - link: https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
+  guitar-capo:
+    - number: 4
+    - image: https://images-na.ssl-images-amazon.com/images/I/51uyNcQ4ikL._SX679_.jpg
+    - link: https://www.amazon.com/gp/product/B00XKVP8BC/
