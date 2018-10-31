@@ -123,7 +123,6 @@ def main(yaml_file, output_dir):
         print('Generating %s!' % name)
 
         # 3. Metadata and Image
-        instance = template.copy()
         number = int(thing.get("number", 40))
 
         # Number must be greater than or equal to 1
