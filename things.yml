@@ -83,19 +83,15 @@ things:
     - number: 129
     - image: https://i.imgur.com/ZlFY6O0.png
     - link: https://goo.gl/Lu5oZg
-  white-bread:
-    - number: 28
-    - image: https://i5.walmartimages.com/asr/576def06-feb9-4be8-b1a2-6e5e75325089_1.250ae3bb6486db065768f7a9c9167a48.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff
-    - link: https://www.walmart.com/ip/Great-Value-White-Bread-20-oz/10315752
   over-the-ear-headphone:
     - number: 1
     - image: https://vsoch.github.io/40-avocados/img/over-the-ear-headphone.jpg
     - link: https://www.amazon.com/Edifier-H840-Audiophile-Over-Headphones/dp/B013J8CB2E/ref=sr_1_16_sspa?s=aht&ie=UTF8&qid=1540991950&sr=1-16-spons&keywords=headphone&psc=1
-  bluetooth-banana-phone:
-    - number: 1
-    - image: https://www.uncommongoods.com/images/items/47800/47883_1_1200px.jpg
-    - link: https://www.uncommongoods.com/product/bluetooth-banana-phone
   fidget-spinner-toy:
     - number: 23
     - image: https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2017/05/19/goods-img/1500943262788087121.jpg
     - link: https://www.gearbest.com/novelty-toys/pp_606385.html?wid=1451296
+  led-light-bulb:
+    - number: 48
+    - image: https://images-na.ssl-images-amazon.com/images/I/71shl09tknL._SL1500_.jpg
+    - link: https://www.amazon.com/SYLVANIA-Equivalent-Light-Efficient-White/dp/B0758GXHQK/
