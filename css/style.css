@@ -3,18 +3,6 @@ body {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  font-family: 'Roboto Mono';
-}
-
-h2 {
-  font-weight: 300;
-  margin: 4vh 4vw;
-  letter-spacing: 3px;
-  color: grey;
-  text-transform: uppercase;
 }
 
 img {

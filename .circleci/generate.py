@@ -144,10 +144,11 @@ def main(yaml_file, output_dir, template_file):
             print('Missing image definition for %s in things.yml.' % name)
             sys.exit(1)
 
-        # Test that image exists
-        if requests.head(image).status_code != 200:
-            print('Error with %s, image status not 200!.' % name)
-            sys.exit(1)
+        # Test that image exists, only if not served locally
+        if not image.startswith('https://vsoch.github.io'):
+            if requests.head(image).status_code != 200:
+                print('Error with %s, image status not 200!.' % name)
+                sys.exit(1)
 
         # 4. Fill Template
         print("Generating grid...")
