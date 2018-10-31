@@ -39,6 +39,10 @@ things:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/816XTZ9KshL._SX522_.jpg
     - link: https://www.amazon.com/Halloween-Chocolate-HERSHEYS-Variety-Assortment/dp/B01M3008KZ/
+  pistachio-chocolate-bar:
+    - number: 4
+    - image: https://vsoch.github.io/40-avocados/img/pistachio-chocolate-bar.jpg
+    - link: https://compartes.com/collections/shop-all-gourmet-chocolates/products/gourmet-dark-chocolate-bar-gift-salted-pistachio-nuts
   star-trek-enterprise-pizza-cutters:
     - number: 2
     - image: https://www.thinkgeek.com/images/products/zoom/dea2_enterprise_pizza_cutter.jpg
