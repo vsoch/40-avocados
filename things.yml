@@ -63,10 +63,6 @@ things:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
     - link: https://www.bookdepository.com/Eloquent-Javascript-3rd-Edition-Marijn-Haverbeke/9781593279509
-  pencils:
-    - number: 240
-    - image: https://images-na.ssl-images-amazon.com/images/I/61qd5YbMRIL._SL1500_.jpg
-    - link: https://www.amazon.com/gp/product/B071JM699B/
   justin-bieber-purpose-audio-cd:
     - number: 4
     - image: https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
@@ -75,3 +71,7 @@ things:
     - number: 129
     - image: https://i.imgur.com/ZlFY6O0.png
     - link: https://goo.gl/Lu5oZg
+  marshmallows:
+    - number: 26
+    - image: https://i5.walmartimages.com/asr/42e0baae-00f6-45b8-a82b-ce612cf43848_1.c49e531c79fd8318692dd4626a4b77dd.jpeg
+    - link: https://www.walmart.com/ip/Jet-Puffed-Marshmallows-12-oz-Wrapper/826143995
