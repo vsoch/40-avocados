@@ -36,7 +36,7 @@ jobs:
             /bin/bash Miniconda3-latest-Linux-x86_64.sh -b 
             $HOME/miniconda3/bin/python -m pip install pyaml
             cd $HOME/src/docs
-            $HOME/miniconda3/bin/python ../.circleci/generate.py ../things.yml $HOME/src/docs
+            $HOME/miniconda3/bin/python ../.circleci/generate.py ../things.yml $HOME/src/docs ../circleci/_template.html
       - persist_to_workspace:
           root: ~/
           paths:

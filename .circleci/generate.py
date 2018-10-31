@@ -101,7 +101,7 @@ def generate_lookup(thing):
     return lookup
 
 
-def generate_html(file_name, subs):
+def generate_html(file_name, template_file, subs):
     '''write the grid html content to a file_name
 
        Parameters
@@ -110,7 +110,7 @@ def generate_html(file_name, subs):
        subs: a dictionary of subs, where key is the template string, value 
              is the content to fill in.
     '''
-    template = read_file('_template.html', readlines=False)
+    template = read_file(template_file, readlines=False)
     for key, content in subs.items():
         template = template.replace("{{ %s }}" % key, content)
 
@@ -119,7 +119,7 @@ def generate_html(file_name, subs):
     return file_name
 
 
-def main(yaml_file, output_dir):
+def main(yaml_file, output_dir, template_file):
 
     # 1. Read in the things.yml file
     data = read_yaml(yaml_file)
@@ -156,9 +156,10 @@ def main(yaml_file, output_dir):
         os.mkdir(os.path.dirname(file_name))
 
         # 5. Write file
-        generate_html(file_name, {"name": name,
-                                  "grid": grid,
-                                  "number": number}) 
+        generate_html(file_name, 
+                      template_file, {"name": name,
+                                      "grid": grid,
+                                      "number": number}) 
 
 
     # Finally, an index.html. Redundant, yes, I'm tired
@@ -169,7 +170,7 @@ def main(yaml_file, output_dir):
         image = thing.get('image')
         grid += generate_grid(image, url, 1)
 
-    generate_html('%s/index.html' % output_dir, {"grid": grid }) 
+    generate_html('%s/index.html' % output_dir, template_file, {"grid": grid }) 
 
 
 if __name__ == '__main__':
@@ -177,4 +178,5 @@ if __name__ == '__main__':
     # Hacky input parsing!
     yaml_file = os.path.abspath(sys.argv[1])
     output_dir = os.path.abspath(sys.argv[2])
-    main(yaml_file, output_dir)
+    template_file = os.path.abspath(sys.argv[3])
+    main(yaml_file, output_dir, template_file)
