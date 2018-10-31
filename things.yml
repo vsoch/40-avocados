@@ -7,3 +7,7 @@ things:
     - number: 1
     - image: https://hackadaycom.files.wordpress.com/2018/10/applerainbowlogoheader.jpg?w=800
     - link: https://hackaday.com/2018/10/30/apple-introduces-what-weve-all-been-waiting-for/
+  espresso:
+    - number: 20
+    - image: https://upload.wikimedia.org/wikipedia/commons/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg?w=800
+    - link: https://en.wikipedia.org/wiki/Espresso
