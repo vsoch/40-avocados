@@ -67,3 +67,7 @@ things:
     - number: 4
     - image: https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
     - link: https://www.amazon.com/Purpose-Deluxe-Justin-Bieber/dp/B016AM4BFQ
+  yugioh-card-shapesnatch:
+    - number: 129
+    - image: https://i.imgur.com/ZlFY6O0.png
+    - link: https://goo.gl/Lu5oZg
