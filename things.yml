@@ -73,8 +73,8 @@ things:
     - link: https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
   morgan-silver-dollar:
     - number: 1
-    - image: http://i.ebayimg.com/images/i/231305263124-0-1/s-l1000.jpg
-    - link: https://www.ebay.com/itm/1878-S-Morgan-Silver-Dollar-Extra-Fine-40-AACGS-Certified/232987518049?hash=item363f236461:g:11QAAOSwEVlb2XIt:rk:12:pf:0
+    - image: https://en.wikipedia.org/wiki/Morgan_dollar#/media/File:1879S_Morgan_Dollar_NGC_MS67plus_Obverse.png
+    - link: https://en.wikipedia.org/wiki/Morgan_dollar
   javascript-book:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/51I9naPg55L._SX376_BO1,204,203,200_.jpg
