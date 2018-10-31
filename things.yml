@@ -3,7 +3,7 @@ things:
     - number: 40
     - image: https://vsoch.github.io/assets/images/posts/truelove/avocado.png
     - link: https://vsoch.github.io/2018/truelove/
-  apples:
-    - number: 40
-    - image: https://vsoch.github.io/assets/images/posts/truelove/avocado.png
-    - link: https://vsoch.github.io/2018/truelove/
+  apple:
+    - number: 1
+    - image: https://hackadaycom.files.wordpress.com/2018/10/applerainbowlogoheader.jpg?w=800
+    - link: https://hackaday.com/2018/10/30/apple-introduces-what-weve-all-been-waiting-for/

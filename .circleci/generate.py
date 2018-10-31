@@ -167,6 +167,7 @@ def main(yaml_file, output_dir, template_file):
     
     for name,thing in data['things'].items():
         url = "https://vsoch.github.io/40-avocados/%s" % name.lower()
+        thing = generate_lookup(thing)
         image = thing.get('image')
         grid += generate_grid(image, url, 1)
 
