@@ -1,4 +1,8 @@
 things:
+  raspberry-pi-3-model-b:
+   - number: 34
+   - image: https://images-na.ssl-images-amazon.com/images/I/91zSu44%2B34L._SX466_.jpg
+   - link: https://www.target.com/p/raspberry-pi-3-model-b-project-board/-/A-53349740
   avocados:
     - number: 40
     - image: https://vsoch.github.io/assets/images/posts/truelove/avocado.png
