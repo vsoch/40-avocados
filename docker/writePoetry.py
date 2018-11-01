@@ -92,6 +92,11 @@ def get_item(choice, lookup, write_markdown, add_prefix=False):
         item = "[%s](https://vsoch.github.io/40-avocados/%s)" %(name, item)
     return item
 
+def print_line(line, write_markdown):
+    if write_markdown:
+        line = " - %s" % line
+    print(line)
+
 
 def writePoem(lookup, write_markdown=False):
     '''given a lookup where keys are numbers of things and values are lsits
@@ -127,16 +132,20 @@ def writePoem(lookup, write_markdown=False):
         beloved = get_beloved()            
         item = get_item(choice, lookup, write_markdown)
         day = get_day()
-            
-        print('On the %s day of %s my %s gave to me, ... %s' %(choice, day,
-                                                               beloved, item))
         
+        line = 'On the %s day of %s my %s gave to me, ... %s' %(choice, day,
+                                                               beloved, item)
+        print_line(line, write_markdown)
+
+                
+
     # Always a 1!
     choice = choices.pop()
     item = get_item(choice, lookup, write_markdown, add_prefix=True)   
 
-    print('And %s just for me :)' %(item))
-    
+    line = 'And %s just for me :)' %(item)
+    print_line(line, write_markdown)
+
 
 
 def main(write_markdown=False):
