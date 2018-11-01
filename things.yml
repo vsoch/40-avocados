@@ -107,6 +107,10 @@ things:
     - number: 23
     - image: https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2017/05/19/goods-img/1500943262788087121.jpg
     - link: https://www.gearbest.com/novelty-toys/pp_606385.html?wid=1451296
+  led-light-bulb:
+    - number: 4
+    - image: https://i5.walmartimages.com/asr/fb0323bf-fbcf-467b-9497-f1e0488e479d_1.7c70c820ab80e9c69f3b0aa76035b8b5.jpeg
+    - link: https://www.amazon.com/dp/B078H7F8P8/
   skateboard:
     - number: 1
     - image: https://vsoch.github.io/40-avocados/img/skateboard.jpg
@@ -151,7 +155,11 @@ things:
     - number: 4
     - image: https://images-na.ssl-images-amazon.com/images/I/91XTVhJLtyL._SL1500_.jpg
     - link: https://www.amazon.com/SanDisk-Ultra-Class-Memory-SDSDUNC-032G-GN6IN/dp/B0143RT8OY
-phone-case:
+  galaxy-phone-case:
     - number: 2
     - image: https://images-na.ssl-images-amazon.com/images/I/71CJbBsDdmL._SX679_.jpg
-    - link: https://www.amazon.com/gp/product/B07G75Q7BB/ref=s9_acsd_simh_hd_bw_b2cwiMt_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=76Q9PVSJP9WZK537KMG0&pf_rd_r=76Q9PVSJP9WZK537KMG0&pf_rd_t=101&pf_rd_p=26849e02-e6b8-5165-903d-37dd41aa284f&pf_rd_p=26849e02-e6b8-5165-903d-37dd41aa284f&pf_rd_i=2407760011
+    - link: https://www.amazon.com/gp/product/B07G75Q7BB
+  fire-7-tablet:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/61-H8NmkaXL._SX679_.jpg
+    - link: https://www.amazon.com/All-New-Amazon-Fire-7-Tablet/dp/B01GEW27DA/
