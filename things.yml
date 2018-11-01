@@ -107,6 +107,10 @@ things:
     - number: 23
     - image: https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2017/05/19/goods-img/1500943262788087121.jpg
     - link: https://www.gearbest.com/novelty-toys/pp_606385.html?wid=1451296
+  led-light-bulb:
+    - number: 4
+    - image: https://i5.walmartimages.com/asr/fb0323bf-fbcf-467b-9497-f1e0488e479d_1.7c70c820ab80e9c69f3b0aa76035b8b5.jpeg
+    - link: https://www.amazon.com/dp/B078H7F8P8/
   skateboard:
     - number: 1
     - image: https://vsoch.github.io/40-avocados/img/skateboard.jpg
@@ -143,6 +147,14 @@ things:
     - number: 4
     - image: https://vsoch.github.io/40-avocados/img/wireless-mouse.jpg
     - link: https://www.amazon.com/VicTsing-Wireless-Portable-Receiver-Adjustable/dp/B013WC0P2A/
+  cinnamon-bun:
+    - number: 13
+    - image: https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-cinnamon-bun-650x458.png
+    - link: https://www.cinnabon.com/bakery-menu/cinnamon-roll
+  memorycard-32gb:
+    - number: 4
+    - image: https://images-na.ssl-images-amazon.com/images/I/91XTVhJLtyL._SL1500_.jpg
+    - link: https://www.amazon.com/SanDisk-Ultra-Class-Memory-SDSDUNC-032G-GN6IN/dp/B0143RT8OY
   fire-7-tablet:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/61-H8NmkaXL._SX679_.jpg
