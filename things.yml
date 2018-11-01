@@ -107,6 +107,10 @@ things:
     - number: 23
     - image: https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2017/05/19/goods-img/1500943262788087121.jpg
     - link: https://www.gearbest.com/novelty-toys/pp_606385.html?wid=1451296
+  led-light-bulb:
+    - number: 4
+    - image: https://i5.walmartimages.com/asr/fb0323bf-fbcf-467b-9497-f1e0488e479d_1.7c70c820ab80e9c69f3b0aa76035b8b5.jpeg
+    - link: https://www.amazon.com/dp/B078H7F8P8/
   skateboard:
     - number: 1
     - image: https://vsoch.github.io/40-avocados/img/skateboard.jpg
