@@ -151,3 +151,7 @@ things:
     - number: 4
     - image: https://images-na.ssl-images-amazon.com/images/I/91XTVhJLtyL._SL1500_.jpg
     - link: https://www.amazon.com/SanDisk-Ultra-Class-Memory-SDSDUNC-032G-GN6IN/dp/B0143RT8OY
+  fire-tv-stick:
+    - number: 35
+    - image: https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5477/5477500_sa.jpg
+    - link: https://www.amazon.com/Amazon-Fire-TV-Stick-With-Alexa-Voice-Remote-Streaming-Media-Player/dp/B00ZV9RDKK/ref=sr_1_3?ie=UTF8&qid=1541042994&sr=8-3&keywords=chromecast
