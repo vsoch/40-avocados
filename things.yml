@@ -22,7 +22,7 @@ things:
   pumpkins:
     - number: 10
     - image: https://vsoch.github.io/40-avocados/img/autumn-72294_960_720.jpg
-    - link: http://mentalfloss.com/article/59312/11-tips-carving-better-jack-olantern
+    - link: https://en.wikipedia.org/wiki/Jack-o%27-lantern
   jet-puffed-marshmallows:
     - number: 26
     - image: https://i5.walmartimages.com/asr/42e0baae-00f6-45b8-a82b-ce612cf43848_1.c49e531c79fd8318692dd4626a4b77dd.jpeg
@@ -63,9 +63,9 @@ things:
     - number: 5
     - image: https://www.thinkgeek.com/images/products/frontsquare/e5a7_canned_unicorn_meat.jpg
     - link: https://www.thinkgeek.com/product/e5a7/?rrec=true&pfm=Recs_CategoryLanding_e5a7_2
-  macdonald-peasant-burguer:
+  macdonald-peasant-burger:
     - number: 40
-    - image: http://www.restaurantesconreto.com/wp-content/uploads/hamburguesa-un-euro.jpg
+    - image: https://media.mcdonalds.hu/storage/50/2/hamburger-kep-product_main_image.png
     - link: https://www.mcdonalds.com/us/en-us/product/cheeseburger.html
   the-elder-scrolls-online:
     - number: 2
@@ -171,3 +171,7 @@ things:
     - number: 7
     - image: https://upload.wikimedia.org/wikipedia/commons/b/bc/PeanutButter.jpg
     - link: https://www.iherb.com/pr/Peanut-Butter-Co-Crunch-Time-Crunchy-Peanut-Butter-16-oz-454-g/54092
+  xiaomi-smart-bracelet:
+    - number: 1
+    - image: https://images-na.ssl-images-amazon.com/images/I/518UhCS5oNL._SY450_.jpg
+    - link: https://www.amazon.com/Mi-Water-Resistant-Bracelet-Pedometer-phones-Chinese/dp/B01LRI86TK
