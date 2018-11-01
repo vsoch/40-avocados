@@ -11,6 +11,16 @@ Wait, did I hear that right? $40.00 for a T-Shirt? Are you *mad* ?
 You know what I'd rather use $40.00 for? Just about anything else. Especially 
 something I can eat. Like [40 avocados](https://vsoch.github.io/40-avocados).
 
+## Write a poem based on what others said.
+
+Want to write a quick poem? More detail is in the [docker](docker) folder.
+You can just use the [Docker container](https://hub.docker.com/r/vanessa/40-avocados/) 
+that parses the content of this repo and run:
+
+```bash
+docker run vanessa/40-avocados
+```
+
 ## What can I get for $40.00?
 What other N things could you get, instead of a T-shirt? [Open a pull request](https://www.github.com/vsoch/40-avocados/pulls) to add an image to the list by just adding an entry to the [things.yml](things.yml) file. What does this mean?
 Here is an example:
