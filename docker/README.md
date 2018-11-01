@@ -51,6 +51,6 @@ it is a manual build and push!
 
 ```bash
 docker build -t vanessa/40-avocados .
-docker tag vanessa/40-avocados vanessa/40-avocados:0.0.2
+docker tag vanessa/40-avocados vanessa/40-avocados:0.0.3
 docker push vanessa/40-avocados
 ```

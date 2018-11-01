@@ -82,11 +82,11 @@ def get_day():
 
 def get_item(choice, lookup, write_markdown, add_prefix=False):
     item = random.choice(lookup[choice])
-    name = "%s %s" % (choice, item.replace('-', ' '))
 
     # Should we add a prefix? (Only the last one)
     if add_prefix:
-        name = "%s %s" %(get_prefix(item), name)
+        choice = get_prefix(item)
+    name = "%s %s" % (choice, item.replace('-', ' '))
 
     if write_markdown:
         item = "[%s](https://vsoch.github.io/40-avocados/%s)" %(name, item)
