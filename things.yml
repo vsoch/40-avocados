@@ -159,3 +159,7 @@ things:
     - number: 1
     - image: https://images-na.ssl-images-amazon.com/images/I/61-H8NmkaXL._SX679_.jpg
     - link: https://www.amazon.com/All-New-Amazon-Fire-7-Tablet/dp/B01GEW27DA/
+  peanut-butter:
+    - number: 7
+    - image: https://upload.wikimedia.org/wikipedia/commons/b/bc/PeanutButter.jpg
+    - link: https://www.iherb.com/pr/Peanut-Butter-Co-Crunch-Time-Crunchy-Peanut-Butter-16-oz-454-g/54092
