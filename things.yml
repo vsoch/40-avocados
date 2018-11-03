@@ -1,4 +1,8 @@
 things:
+  128gb-flash-drive:
+   - number: 1
+   - image: https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3198/3198009_sd.jpg
+   - link: https://www.bestbuy.com/site/pny-elite-turbo-attache-4-128gb-usb-3-0-type-a-flash-drive-black-gray/3198009.p?skuId=3198009
   avocados:
     - number: 40
     - image: https://vsoch.github.io/assets/images/posts/truelove/avocado.png
